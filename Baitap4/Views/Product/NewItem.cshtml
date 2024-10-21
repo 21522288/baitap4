@@ -1,0 +1,79 @@
+﻿
+@{
+    ViewData["Title"] = "NewItem";
+}
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="form-container">
+    <h2>Book Entry Form</h2>
+    <form action="/submit-book" method="POST" enctype="multipart/form-data">
+        <!-- Book ID -->
+        <div class="form-group">
+            <label for="book-id">Book ID:</label>
+            <input type="text" id="book-id" name="book-id" required>
+        </div>
+
+        <!-- Book Name -->
+        <div class="form-group">
+            <label for="book-name">Book Name:</label>
+            <input type="text" id="book-name" name="book-name" required>
+        </div>
+
+        <!-- Author -->
+        <div class="form-group">
+            <label for="author">Author:</label>
+            <input type="text" id="author" name="author" required>
+        </div>
+
+        <!-- Quantity -->
+        <div class="form-group">
+            <label for="quantity">Quantity:</label>
+            <input type="number" id="quantity" name="quantity" min="1" required>
+        </div>
+
+        <!-- Price -->
+        <div class="form-group">
+            <label for="price">Price (VND):</label>
+            <input type="number" id="price" name="price" min="0" step="1000" required>
+        </div>
+
+        <!-- Category -->
+        <div class="form-group">
+            <label for="category">Category:</label>
+            <select id="category" name="category" required>
+                <option value="fiction">Fiction</option>
+                <option value="non-fiction">Non-Fiction</option>
+                <option value="education">Education</option>
+                <option value="science">Science</option>
+                <option value="history">History</option>
+                <!-- Add more categories as needed -->
+            </select>
+        </div>
+
+        <!-- Image -->
+        <div class="form-group">
+            <label for="image">Upload Image:</label>
+            <input type="file" id="image" name="image" accept="image/*" required>
+        </div>
+
+        <!-- Description -->
+        <div class="form-group">
+            <label for="description">Description:</label>
+            <textarea id="description" name="description" rows="4" required></textarea>
+        </div>
+
+        <!-- Publication Date -->
+        <div class="form-group">
+            <label for="publication-date">Publication Date:</label>
+            <input type="date" id="publication-date" name="publication-date" required>
+        </div>
+
+        <!-- Submit Button -->
+        <div class="form-group">
+            <button class="btn btn-primary rounded-pill px-3"  type="submit">Submit Book</button>
+        </div>
+    </form>
+</div>
+
