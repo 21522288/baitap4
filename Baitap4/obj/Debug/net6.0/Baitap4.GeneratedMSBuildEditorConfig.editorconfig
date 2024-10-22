@@ -30,12 +30,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/congnghenet/Baitap4/Baitap4/Views/Product/EditItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/congnghenet/Baitap4/Baitap4/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/congnghenet/Baitap4/Baitap4/Views/Product/NewItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxOZXdJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/congnghenet/Baitap4/Baitap4/Views/Product/Temp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxUZW1wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/congnghenet/Baitap4/Baitap4/Views/Product/Temp1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxUZW1wMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/congnghenet/Baitap4/Baitap4/Views/Product/Temp2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxUZW1wMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/congnghenet/Baitap4/Baitap4/Views/Shared/Error.cshtml]

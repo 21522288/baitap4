@@ -7,20 +7,40 @@
       "RelativeMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|d:\\congnghenet\\baitap4\\baitap4\\views\\product\\newitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\views\\product\\newitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|d:\\congnghenet\\baitap4\\baitap4\\models\\bookmanagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\models\\bookmanagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|d:\\congnghenet\\baitap4\\baitap4\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|d:\\congnghenet\\baitap4\\baitap4\\views\\product\\newitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\views\\product\\newitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|d:\\congnghenet\\baitap4\\baitap4\\views\\product\\edititem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\views\\product\\edititem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|d:\\congnghenet\\baitap4\\baitap4\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|d:\\congnghenet\\baitap4\\baitap4\\views\\product\\temp2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\views\\product\\temp2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|d:\\congnghenet\\baitap4\\baitap4\\views\\product\\temp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\views\\product\\temp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|d:\\congnghenet\\baitap4\\baitap4\\views\\product\\temp1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\views\\product\\temp1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|d:\\congnghenet\\baitap4\\baitap4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|d:\\congnghenet\\baitap4\\baitap4\\models\\bookmanagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\models\\bookmanagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|d:\\congnghenet\\baitap4\\baitap4\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -29,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|d:\\congnghenet\\baitap4\\baitap4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|d:\\congnghenet\\baitap4\\baitap4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71F2E03D-8B59-4360-A7DC-AEA9435A1970}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +58,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditItem.cshtml",
+              "DocumentMoniker": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Product\\EditItem.cshtml",
+              "RelativeDocumentMoniker": "Baitap4\\Views\\Product\\EditItem.cshtml",
+              "ToolTip": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Product\\EditItem.cshtml",
+              "RelativeToolTip": "Baitap4\\Views\\Product\\EditItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T08:54:20.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Temp.cshtml",
+              "DocumentMoniker": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Product\\Temp.cshtml",
+              "RelativeDocumentMoniker": "Baitap4\\Views\\Product\\Temp.cshtml",
+              "ToolTip": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Product\\Temp.cshtml",
+              "RelativeToolTip": "Baitap4\\Views\\Product\\Temp.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwEYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T07:12:27.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,27 +102,27 @@
               "RelativeDocumentMoniker": "Baitap4\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\congnghenet\\Baitap4\\Baitap4\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Baitap4\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T16:42:23.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NewItem.cshtml",
               "DocumentMoniker": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Product\\NewItem.cshtml",
               "RelativeDocumentMoniker": "Baitap4\\Views\\Product\\NewItem.cshtml",
               "ToolTip": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Product\\NewItem.cshtml",
               "RelativeToolTip": "Baitap4\\Views\\Product\\NewItem.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-21T14:26:15.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "BookManageContext.cs",
               "DocumentMoniker": "D:\\congnghenet\\Baitap4\\Baitap4\\Models\\BookManageContext.cs",
               "RelativeDocumentMoniker": "Baitap4\\Models\\BookManageContext.cs",
@@ -84,18 +130,17 @@
               "RelativeToolTip": "Baitap4\\Models\\BookManageContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T15:53:34.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T15:53:34.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Baitap4\\Views\\Product\\Index.cshtml",
               "ToolTip": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Baitap4\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAADxAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-19T16:43:13.874Z",
               "EditorCaption": ""
@@ -108,14 +153,40 @@
               "RelativeDocumentMoniker": "Baitap4\\Views\\Product\\Detail.cshtml",
               "ToolTip": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Product\\Detail.cshtml",
               "RelativeToolTip": "Baitap4\\Views\\Product\\Detail.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-21T14:56:00.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Temp1.cshtml",
+              "DocumentMoniker": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Product\\Temp1.cshtml",
+              "RelativeDocumentMoniker": "Baitap4\\Views\\Product\\Temp1.cshtml",
+              "ToolTip": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Product\\Temp1.cshtml",
+              "RelativeToolTip": "Baitap4\\Views\\Product\\Temp1.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T07:44:25.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Temp2.cshtml",
+              "DocumentMoniker": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Product\\Temp2.cshtml",
+              "RelativeDocumentMoniker": "Baitap4\\Views\\Product\\Temp2.cshtml",
+              "ToolTip": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Product\\Temp2.cshtml",
+              "RelativeToolTip": "Baitap4\\Views\\Product\\Temp2.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T08:09:14.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "site.css",
               "DocumentMoniker": "D:\\congnghenet\\Baitap4\\Baitap4\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Baitap4\\wwwroot\\css\\site.css",
@@ -127,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Baitap4\\Views\\Home\\Index.cshtml",
@@ -135,11 +206,12 @@
               "RelativeToolTip": "Baitap4\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T08:22:59.67Z"
+              "WhenOpened": "2024-10-19T08:22:59.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\congnghenet\\Baitap4\\Baitap4\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Baitap4\\Views\\Shared\\_Layout.cshtml",
